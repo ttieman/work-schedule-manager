@@ -13,6 +13,13 @@ The Green sections are future scheduled tasks
 ## ScreenShot  
 ![alt = "A Screenshot of the work day scheduler"](./assets/workdayscheduler.png)
 
+## Link
+To The Website
+ [file:https://ttieman.github.io/work-schedule-manager/](doc:linking-to-pages#https://ttieman.github.io/work-schedule-manager/)
+To the Repo 
+ [https://github.com/ttieman/work-schedule-manager](doc:linking-to-pages#https://github.com/ttieman/work-schedule-manager)
+
+
 ## License 
 
 MIT
